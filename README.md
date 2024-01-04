@@ -153,7 +153,8 @@ h1{
 }
 ```
 ## OUTPUT:
-calculator_pic
+
+![293578828-5ef12c8e-ea7e-4f7b-8a5e-aedfec014ca5](https://github.com/DharanAditya/standard-calculator/assets/147473834/e4a90ec3-fd84-4896-974b-2caabb9b5be8)
 
 ## Result:
 The program for designing a simple calculator using JavaScript is executed successfully.
